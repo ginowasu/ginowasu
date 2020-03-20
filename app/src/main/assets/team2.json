@@ -1,0 +1,103 @@
+{
+  "team2": [
+    {
+      "firstname": "นฤมล",
+      "lastname" : "สาริบุตร",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160087",
+      "position": "Support Manager",
+      "html": "A",
+      "css": "B",
+      "php": "C",
+      "javascript": "B",
+      "sql": "A"
+    },
+    {
+      "firstname": "คมสันต์",
+      "lastname" : "เทศนา",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160155",
+      "position": "Developer",
+      "html": "A",
+      "css": "B",
+      "php": "A",
+      "javascript": "B",
+      "sql": "A"
+    },
+    {
+      "firstname": "ฉัตรเฉลิม",
+      "lastname" : "วสุอนันต์กุล",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160159",
+      "position": "Planner",
+      "html": "A",
+      "css": "A",
+      "php": "C",
+      "javascript": "B",
+      "sql": "C"
+    },
+    {
+      "firstname": "กิตติศักดิ์",
+      "lastname" : "น้อยดอนไพร",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160189",
+      "position": "Development Manager",
+      "html": "A",
+      "css": "B",
+      "php": "A",
+      "javascript": "B",
+      "sql": "B"
+    },
+    {
+      "firstname": "จุฑามาศ",
+      "lastname" : "สายแก้ว",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160333",
+      "position": "Quality Assurance",
+      "html": "A",
+      "css": "B",
+      "php": "C",
+      "javascript": "B",
+      "sql": "A"
+    },
+    {
+      "firstname": "นำโชค",
+      "lastname" : "สิงหะชัย",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160169",
+      "position": "Team Leader",
+      "html": "A",
+      "css": "B",
+      "php": "A",
+      "javascript": "B",
+      "sql": "A"
+    },
+    {
+      "firstname": "ชมพูนุช",
+      "lastname" : "ปิตธวัชชัย",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160336",
+      "position": "Supporter",
+      "html": "B",
+      "css": "B",
+      "php": "C",
+      "javascript": "B",
+      "sql": "A"
+    },
+    {
+      "firstname": "พัณณิตา",
+      "lastname" : "คันธศร",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160345",
+      "position": "Quality Manager",
+      "html": "A",
+      "css": "B",
+      "php": "C",
+      "javascript": "B",
+      "sql": "A"
+    },
+    {
+      "firstname": "วาทินี",
+      "lastname" : "แตงทอง",
+      "image": "https://reg.buu.ac.th/registrar/getstudentimage.asp?id=60160350",
+      "position": "Planning Manager",
+      "html": "A",
+      "css": "B",
+      "php": "C",
+      "javascript": "B",
+      "sql": "A"
+    }
+  ]
+}

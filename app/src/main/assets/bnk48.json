@@ -1,0 +1,35 @@
+{
+  "bnk48": [
+    {
+      "title": "Cherprang BNK48",
+      "image" : "https://i.bnk48cdn.net/others/election-2020/member_images/bnk48_single_8th/S_Cherprang.jpg",
+      "description": "Date of birth : 2 May 1996\nHeight : 159 cm \nProvince : Bangkok \nLike : เต้าหู้ไข่ ไอศกรีม \nBlood Group : B \nHobby : กิน, นอน, เล่นเกม, ฟังเพลง, Cosplay"
+    },
+
+    {
+      "title": "Jaa BNK48",
+      "image" : "https://i.bnk48cdn.net/others/election-2020/member_images/bnk48_single_8th/S_Jaa.jpg",
+      "description": "Date of birth : 20 January 2003\nHeight : 159.5 cm\nProvince : Bangkok\nLike : แมว, ผ้าเน่า, หมอนข้าง\nBlood Group : B\nHobby : ฟังเพลง, เล่นflute, ดูหนัง\n"
+    },
+    {
+      "title": "Jane BNK48",
+      "image" : "https://i.bnk48cdn.net/others/election-2020/member_images/bnk48_single_8th/S_Jane.jpg",
+      "description": "Date of birth : 23 March 2000\nHeight : 159 cm\nProvince : Pathum Thani\nLike : บาร์บี้, หมา, แมว, แฮมสเตอร์, กระต่าย\nBlood Group : A\nHobby : นอน, กิน, ดูอนิเมะ\n"
+    },
+    {
+      "title": "Jennis BNK48",
+      "image" : "https://i.bnk48cdn.net/others/election-2020/member_images/bnk48_single_8th/S_Jennis.jpg",
+      "description": "Date of birth : 4 July 2000\nHeight : 159 cm\nProvince : Petchaburi\nLike : Kpop101, สะสมโมเดลอาวุธ, เครื่องสำอาง\nBlood Group : O\nHobby : เล่นกีฬา, ดูหนัง, ฟังเพลง, ดูอนิเมะ\n"
+    },
+    {
+      "title": "Jib BNK48",
+      "image" : "https://i.bnk48cdn.net/others/election-2020/member_images/bnk48_single_8th/S_Jib.jpg",
+      "description": "Date of birth : 4 July 2002\nHeight : 160 cm\nProvince : Lopburi\nLike : anime guchi\nBlood Group : A\nHobby : เล่นเกม, วาดรูป, ดูอนิเมะ, ฟังเพลง\n"
+    },
+    {
+      "title": "Kaew BNK48",
+      "image" : "https://i.bnk48cdn.net/others/election-2020/member_images/bnk48_single_8th/S_Kaew.jpg",
+      "description": "Date of birth : 31 March 1994\nHeight : 155 cm\nProvince : Chonburi\nLike : เครื่องสำอาง, น้ำหอม\nBlood Group : B\nHobby : เล่นเปียโน, นอน, เดินเล่น\n"
+    }
+  ]
+}
